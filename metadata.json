@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NourishNkgugigu",
+  "description": "A full-featured web application that connects food donors with those in need, fostering a community of sharing and support. Features include user roles, location-based food discovery, a secure claiming process with integrated chat, community engagement feeds, and user profiles.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
