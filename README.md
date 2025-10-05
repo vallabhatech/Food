@@ -1,5 +1,5 @@
 
-# 🍲  Food Donation App
+# 🍲 FeediFy (Food Donation App)
 
 A minimal, frontend-focused humanitarian food donation app built with React and TypeScript. This application serves as a Minimum Viable Product (MVP) to demonstrate the core user flows of collecting donation posts, allowing admins to manage operations, and enabling volunteers to handle pickups.
 
